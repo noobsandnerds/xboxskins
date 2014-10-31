@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addons>
+<addon id="repository.xboxskins" version="1.0" name="XBMC4Xbox Skins Repository" provider-name="whufclee">
+	<extension point="xbmc.addon.repository" name="XBMC4Xbox Skins Repository">
+		<info compressed="false">https://github.com/totalxbmc/xboxskins/raw/master/addons.xml</info>
+		<checksum>https://github.com/totalxbmc/xboxskins/raw/master/addons.xml.md5</checksum>
+		<datadir zip="true">https://raw.github.com/totalxbmc/xboxskins/master/zips</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>XBMC4Xbox skins</summary>
+		<description>Keeping the XBMC4Xbox scene alive! Here you'll find a collection of xbox skins, some from yesteryear that have been forgotten about but we are looking to resurrect them.</description>
+		<platform>xbox</platform>
+	</extension>
+</addon>
+
+<addon id="skin.xTV-SAF.xbox" version="1.2.0" name="xTV-SAF 4Xbox" provider-name="wyrm">
+  <requires>
+    <import addon="xbmc.gui" version="1.0.0" />
+  </requires>
+  <extension point="xbmc.gui.skin" defaultresolution="720p" defaultresolutionwide="720p" defaultthemename="textures.xbt" effectslowdown="1" debugging="false" />
+  <extension point="xbmc.addon.metadata">
+    <summary>Aeon Auriga Lite r8</summary>
+    <description>A family friendly remake of a classic skin.  Very simple and easy to use with large fonts - great for those with small screens, CRT or like me you have poor eyesight!</description>
+    <platform>xbox</platform>
+  </extension>
+</addon>
+</addons>

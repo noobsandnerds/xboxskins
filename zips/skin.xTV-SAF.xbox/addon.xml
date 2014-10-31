@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<addon id="skin.xTV-SAF.xbox" version="1.2.0" name="xTV-SAF 4Xbox" provider-name="wyrm">
+  <requires>
+    <import addon="xbmc.gui" version="1.0.0" />
+  </requires>
+  <extension point="xbmc.gui.skin" defaultresolution="720p" defaultresolutionwide="720p" defaultthemename="textures.xbt" effectslowdown="1" debugging="false" />
+  <extension point="xbmc.addon.metadata">
+    <summary>Aeon Auriga Lite r8</summary>
+    <description>A family friendly remake of a classic skin.  Very simple and easy to use with large fonts - great for those with small screens, CRT or like me you have poor eyesight!</description>
+    <platform>xbox</platform>
+  </extension>
+</addon>
