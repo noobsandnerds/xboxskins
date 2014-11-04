@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<addon id="skin.rcm.xbox" version="3.5.41" name="rapier-clarity-mod" provider-name="byron" >
+  <requires>
+    <import addon="xbmc.gui" version="1.0.0" />
+  </requires>
+  <extension point="xbmc.gui.skin" defaultresolution="720p" defaultresolutionwide="720p" defaultthemename="textures.xpr" />
+  <extension point="xbmc.addon.metadata">
+    <summary>An xbmc4xbox skin</summary>
+    <description>Rapier Clarity Mod is a fast efficient skin for xbmc4xbox that offers much customization and light ram usage for a platform with very limited resources.</description>
+    <platform>xbox</platform>
+  </extension>
+</addon>
