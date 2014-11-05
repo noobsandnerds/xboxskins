@@ -3,7 +3,6 @@
 <addon id="repository.xboxskins" version="1.0" name="XBMC4Xbox Skins Repository" provider-name="whufclee">
 	<extension point="xbmc.addon.repository" name="XBMC4Xbox Skins Repository">
 		<info compressed="false">https://github.com/totalxbmc/xboxskins/raw/master/zips/addons.xml</info>
-		<info compressed="false">https://raw.github.com/totalxbmc/xboxskins/master/zips/addons.xml</info>
 		<checksum>https://github.com/totalxbmc/xboxskins/raw/master/zips/addons.xml.md5</checksum>
 		<datadir zip="true">https://raw.github.com/totalxbmc/xboxskins/master/zips</datadir>
 	</extension>
