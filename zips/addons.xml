@@ -13,7 +13,7 @@
 	</extension>
 </addon>
 
-<addon id="skin.rapier-clarity-mod.xbox" version="3.5.41" name="rapier-clarity-mod" provider-name="byron" >
+<addon id="skin.rapier-clarity-mod.xbox" version="3.5.41" name="rapier-clarity-mod 4Xbox" provider-name="byron" >
   <requires>
     <import addon="xbmc.gui" version="1.0.0" />
   </requires>
